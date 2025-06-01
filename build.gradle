@@ -22,7 +22,7 @@ dependencies {
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.36'
     testImplementation 'org.slf4j:slf4j-simple:1.7.32'
     testImplementation 'io.rest-assured:rest-assured:5.5.0'
-    testImplementation 'com.google.code.gson:gson:2.10.1'
+    testImplementation 'com.google.code.gson:gson:2.13.0'
 }
 
 test {
